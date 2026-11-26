@@ -43,6 +43,8 @@ SO5 - Function effectively on a team whose members provide leadership, create a 
 
 SO7- acquire and apply new knowledge as needed, using appropriate learning strategies.
 
+# Course Topic
+
 #📌 PRELIM PERIOD ( Week 1 - 6 )
 
 Week 1 - Module 1: Database Systems and Introduction to SQL
