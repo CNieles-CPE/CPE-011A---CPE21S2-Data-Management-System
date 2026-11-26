@@ -26,8 +26,6 @@ Students must present a database design project implemented and integrated into 
 
 # Course Outcomes 
 
-COURSE OUTCOMES
-
 At the end of the course, the students should be able to:
 
 Analyze existing database designs using fundamental database concepts and design rules (SO 7)
